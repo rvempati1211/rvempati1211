@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohitha Vempati
 - 👀 I’m interested in Data Science, Data Visualization, AWS
-- 🌱 I’m currently learning Data Analytics and Cloud Computing
+- 🌱 I’m currently learning Data Analytics and Cloud Computing.
 - 💞️ I want to collaborate on data-driven projects, predictive modeling, and large-scale analytics.
 - 📫 How to reach me https://www.linkedin.com/in/rohitha-vempati/
 - 😄 Pronouns: she/her
